@@ -1,4 +1,5 @@
 # quiz-app
+Quiz App that pulls in questions from an API. User answers questions
 
 ## Project setup
 ```
